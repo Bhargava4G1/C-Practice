@@ -1,0 +1,61 @@
+1. Program to print the bigger number
+2. Program to print a message if negative number is entered
+3. Program to print whether a number is even or odd
+4. Program to find quotient and remainder
+5. Program to find the biggest number from three given numbers
+6. Program to find whether a year is a leap or not
+7. Program to find out the grade of a student when 4 subject marks are given
+/*
+The method of assigning grade is 
+per >= 85			grade = A
+per >= 70  and  per < 85	grade = B
+per >= 55  and  per < 70	grade = C
+per >= 40  and  per < 55	grade = D
+per < 40			grade = E
+*/
+
+---------------------------LOOPS----------------------------------------------------
+8.  Program to print 1 to 10 using while loop
+9.  Program to print numbers in reverse order with difference of 2
+10. Program to print the sum of digits of any number
+11. program to find the product of digits of any number
+12. Program to find the factorial of any number
+13. Program to convert a binary to decimal
+
+-----------------------------(do-while)----------------------------------------------
+
+11. program to find the product of digits of any number
+14. Program to print numbers from 1 to 10 using do-while
+15. Program to count digits in a number
+16. Program to find sum of numbers entered
+
+----------------------(for loop)--------------------------------------
+
+17. Program to print numbers from 1 to 10 using for loop
+18. Program to print numbers in reverse order with difference of 2
+19. Multiply two positive numbers without using * operator
+20. Find the sum of this series up to n terms 1 + 2 + 4 + 7 + 11 + 16+ .....
+21. Program to generate Fibonacci series
+22. Program to print the sum of digits of any number using for loop
+23. Program to show the comma operator in for loop
+24. Program to understand nesting in for loops
+25. Program to print Armstrong numbers
+26. Program to find the sum of digits of a number until the sum is reduced to 1 digit
+27. Program to understand the use of break statement
+28. Program to find whether a number is a prime or not
+29. Program to understand the use of continue statement
+30. Program to find the sum and average of 10 positive integers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
